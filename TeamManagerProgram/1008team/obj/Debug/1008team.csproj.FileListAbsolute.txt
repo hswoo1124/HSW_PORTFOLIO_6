@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\2019_hong\ms_sql\1008team\1008team\bin\Debug\1008team.exe.config
+C:\Users\user\Desktop\2019_hong\ms_sql\1008team\1008team\bin\Debug\1008team.exe
+C:\Users\user\Desktop\2019_hong\ms_sql\1008team\1008team\bin\Debug\1008team.pdb
+C:\Users\user\Desktop\2019_hong\ms_sql\1008team\1008team\obj\Debug\_1008team.Form1.resources
+C:\Users\user\Desktop\2019_hong\ms_sql\1008team\1008team\obj\Debug\_1008team.Properties.Resources.resources
+C:\Users\user\Desktop\2019_hong\ms_sql\1008team\1008team\obj\Debug\1008team.csproj.GenerateResource.cache
+C:\Users\user\Desktop\2019_hong\ms_sql\1008team\1008team\obj\Debug\1008team.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2019_hong\ms_sql\1008team\1008team\obj\Debug\1008team.exe
+C:\Users\user\Desktop\2019_hong\ms_sql\1008team\1008team\obj\Debug\1008team.pdb
+C:\Users\user\Desktop\2019_hong\ms_sql\1008team\1008team\obj\Debug\1008team.csprojAssemblyReference.cache
